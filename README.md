@@ -12,7 +12,6 @@
    
    ## Preview of this website :- 
    https://deadlyranger.github.io/Google-clone/  
-    
-    ![image](https://user-images.githubusercontent.com/94749969/161707234-d2e36dd2-75e4-43e1-96d6-358d2ae283ac.png)
+     ![image](https://user-images.githubusercontent.com/94749969/161707234-d2e36dd2-75e4-43e1-96d6-358d2ae283ac.png)
 
     
