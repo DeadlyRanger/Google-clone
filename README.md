@@ -10,9 +10,7 @@
    4} some apis
    
    
-   ### Preview o this website :- 
-    U can access this website from here :-  
-    
-     https://deadlyranger.github.io/Google-clone/
+   ## Preview of this website :- 
+       U can access this website from here :-  https://deadlyranger.github.io/Google-clone/
     
     
